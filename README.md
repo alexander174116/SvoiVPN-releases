@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/alexander174116/SvoiVPN-releases/total?label=скачано&color=00D678&cacheSeconds=300)](https://github.com/alexander174116/SvoiVPN-releases/releases)
 
 <p align="center">
-  <img src="assets/preview.png" alt="SvoiVPN — главный экран" width="330">
+  <img src="preview.png" alt="SvoiVPN — главный экран" width="330">
 </p>
 
 ## ⬇ Скачать
