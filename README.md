@@ -1,4 +1,4 @@
-<h1 align="center">SvoiVPN</h1>
+<h1>SvoiVPN</h1>
 
 <p align="center">
 Бесплатный VPN-клиент для Windows 10/11 с <b>per-app routing</b> — сам выбираешь, какие приложения идут через VPN, а какие напрямую.<br>
