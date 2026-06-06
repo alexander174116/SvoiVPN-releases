@@ -5,6 +5,10 @@
 [![Latest release](https://img.shields.io/github/v/release/alexander174116/SvoiVPN-releases?label=версия&color=00D678)](https://github.com/alexander174116/SvoiVPN-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/alexander174116/SvoiVPN-releases/total?label=скачано&color=00D678&cacheSeconds=300)](https://github.com/alexander174116/SvoiVPN-releases/releases)
 
+<p align="center">
+  <img src="assets/preview.png" alt="SvoiVPN — главный экран" width="330">
+</p>
+
 ## ⬇ Скачать
 
 **[Установить SvoiVPN (Windows)](https://github.com/alexander174116/SvoiVPN-releases/releases/latest/download/SvoiVPN-Setup.exe)**
