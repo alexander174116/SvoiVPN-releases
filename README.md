@@ -3,7 +3,7 @@
 Бесплатный VPN-клиент для Windows 10/11 с **per-app routing** — сам выбираешь, какие приложения идут через VPN, а какие напрямую (игры без лагов, Discord/Telegram через VPN, остальное без замедления).
 
 [![Latest release](https://img.shields.io/github/v/release/alexander174116/SvoiVPN-releases?label=версия&color=00D678)](https://github.com/alexander174116/SvoiVPN-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/alexander174116/SvoiVPN-releases/total?label=скачано&color=00D678)](https://github.com/alexander174116/SvoiVPN-releases/releases)
+[![Downloads](https://img.shields.io/github/downloads/alexander174116/SvoiVPN-releases/total?label=скачано&color=00D678&cacheSeconds=300)](https://github.com/alexander174116/SvoiVPN-releases/releases)
 
 ## ⬇ Скачать
 
