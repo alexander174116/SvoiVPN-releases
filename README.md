@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexander174116/SvoiVPN-releases/releases/latest"><img src="https://img.shields.io/github/v/release/alexander174116/SvoiVPN-releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&amp;color=00D678" alt="версия"></a>
-  <a href="https://github.com/alexander174116/SvoiVPN-releases/releases"><img src="https://img.shields.io/github/downloads/alexander174116/SvoiVPN-releases/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D0%BD%D0%BE&amp;color=00D678&amp;cacheSeconds=300" alt="скачано"></a>
+  <a href="https://github.com/alexander174116/SvoiVPN-releases/releases/latest"><img src="https://img.shields.io/github/v/release/alexander174116/SvoiVPN-releases?label=version&amp;color=00D678" alt="version"></a>
+  <a href="https://github.com/alexander174116/SvoiVPN-releases/releases"><img src="https://img.shields.io/github/downloads/alexander174116/SvoiVPN-releases/total?label=downloads&amp;color=00D678&amp;cacheSeconds=300" alt="downloads"></a>
 </p>
 
 <p align="center"><sub>Запусти установщик от имени администратора. Уже установлен? Клиент обновляется сам — кнопка «Check Update» в шапке.</sub></p>
